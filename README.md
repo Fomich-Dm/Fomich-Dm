@@ -6,9 +6,11 @@
 
 
 ### Сontact me:
-📫 Mail: fomin.dmitriy94@gmail.com
-📱 Telegram: https://t.me/Dm_Fomich
-💻 LinkedIn: https://www.linkedin.com/in/dmitriy-fomin-001a0b254/
+- 📫Mail: fomin.dmitriy94@gmail.com
+
+- 📱Telegram: https://t.me/Dm_Fomich
+
+- 💻LinkedIn: https://www.linkedin.com/in/dmitriy-fomin-001a0b254/
 
 ### 🔨 My technology stack:
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
