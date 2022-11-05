@@ -1,5 +1,5 @@
-<h1 align="center">Hi, my name is Dimitriy 👋.</h1>
-<h3 align="center"> I am a frontend developer.</h3>
+# Hi, my name is Dimitriy 👋.
+I am a frontend developer.
 
 ### About me:
 - Looking for a job as a frontend developer.
