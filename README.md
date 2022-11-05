@@ -1,11 +1,11 @@
 # Hi, my name is Dimitriy 👋.
-I am a frontend developer.
 
 ### About me:
+- I am a frontend developer.
 - Looking for a job as a frontend developer.
 - learning TypeScript.
 - learning algorithms.
-- 
+
 ### Сontact me:
 - 📫Mail: fomin.dmitriy94@gmail.com
 
